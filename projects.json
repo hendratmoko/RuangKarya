@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "websiteecommers",
+    "student_name": "salsa1",
+    "student_class": "x",
+    "category": "Website",
+    "description": "website pembelian barang",
+    "cover_image": "uploads/ebe6856f25da79ed1b00135b3fa0efe5.png",
+    "demo_url": "https://ekizr.com/",
+    "project_url": "https://github.com/EkiZR/Portofolio_V5.git",
+    "created_at": "2026-10-17"
+  },
+  {
+    "id": 2,
+    "title": "video anti bullyingggg",
+    "student_name": "andikaaa",
+    "student_class": "XRPL2",
+    "category": "Video",
+    "description": "Video yang mnerngkan anti bully",
+    "cover_image": "uploads/85fa5f26bcc369521ae62624663ac24d.jpg",
+    "demo_url": "https://www.youtube.com/watch?v=ACDNRR9XIns",
+    "project_url": "https://www.youtube.com/watch?v=ACDNRR9XIns",
+    "created_at": "2026-10-17"
+  }
+]
